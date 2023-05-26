@@ -6,4 +6,4 @@ My day job is a stem-cell/computational biologist. Having witnessed the rapid ad
 
 ## Available Modules
 1. Chat (the most obvious use case)
-2. 
+2. IDE for python and other data science pipelines
